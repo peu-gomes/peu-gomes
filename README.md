@@ -1,15 +1,24 @@
-Olá! 👋 
-Sou contador em transição para a área de dados. Apaixonado por explorar insights através de dados e contribuir para a evolução tecnológica.
+# Pedro Gomes
+
+Contador em transição para a área de dados.
+
+Apaixonado por explorar insights através de dados e contribuir para a evolução tecnológica.
 
 ---
 
-### 🛠️ Habilidades
-- **Linguagem**: 🐍 Python
-- **Framework**: 🐼 Pandas
+## 🚀 Habilidades
+
+- **Linguagens:** 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- **Framework:** 
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-### 🚧 Projetos em Desenvolvimento
+## 🚧 Projetos em Desenvolvimento
+
 1. **Projeto A (Em Desenvolvimento)**
    - Descrição: [Breve descrição]
    - [Link para o repositório ou projeto] 🔗
@@ -20,17 +29,20 @@ Sou contador em transição para a área de dados. Apaixonado por explorar insig
 
 ---
 
-### 🤝 Contribuições
+## 🤝 Contribuições
+
 - Ainda não tenho contribuições em projetos de código aberto.
 
 ---
 
-### 📬 Contato
+## 📬 Contato
+
 - Telefone: 77981140537 📞
 
 ---
 
-### 🌐 Interesses
+## 🌐 Interesses
+
 - Data Science
 - Análise de Dados
 - Machine Learning
