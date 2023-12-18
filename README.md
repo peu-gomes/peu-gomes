@@ -1,16 +1,44 @@
-### Hi there 👋
+# Pedro Gomes 🚀
 
-<!--
-**peu-gomes/peu-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Cientista de Dados | Vitória da Conquista - BA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! 👋 Sou contador em transição para a área de dados. Apaixonado por explorar insights através de dados e contribuir para a evolução tecnológica.
+
+---
+
+### Habilidades 🛠️
+- **Linguagem**: Python 🐍
+- **Framework**: Pandas 🐼
+
+---
+
+### Projetos em Desenvolvimento 🚧
+1. **Projeto A (Em Desenvolvimento)**
+   - Descrição: [Breve descrição]
+   - [Link para o repositório ou projeto] 🔗
+
+2. **Projeto B (Em Desenvolvimento)**
+   - Descrição: [Breve descrição]
+   - [Link para o repositório ou projeto] 🔗
+
+---
+
+### Contribuições 🤝
+- Ainda não tenho contribuições em projetos de código aberto.
+
+---
+
+### Contato 📬
+- Telefone: 77981140537 📞
+
+---
+
+### Interesses 🌐
+- Data Science
+- Análise de Dados
+- Machine Learning
+- Visualização de Dados
+- Desenvolvimento Web
+
