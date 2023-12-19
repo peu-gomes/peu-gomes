@@ -8,19 +8,16 @@ Olá! Sou [Seu Nome], um apaixonado por Ciência de Dados, buscando insights sig
 - [Projeto 2](link_para_projeto2): Outro projeto fascinante que destaca minhas habilidades em Ciência de Dados.
 
 ### 🛠️ Habilidades
-- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Bibliotecas:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-    
-- **Visualização de Dados:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-- **Machine Learning:** ![Regressão](https://img.shields.io/badge/Regress%C3%A3o-FF5733?style=flat) ![Classificação](https://img.shields.io/badge/Classifica%C3%A7%C3%A3o-00BFFF?style=flat) ![Clustering](https://img.shields.io/badge/Clustering-8A2BE2?style=flat)
-- **Bancos de Dados:** ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=sql&logoColor=white)
-
-- **Outras Habilidades:** 
-  - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) 
-  - ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=microsoftpowerquery&logoColor=black)
-
-### 📘 Aprendendo Atualmente
-Estou sempre em busca de conhecimento! Atualmente, estou focado em aprimorar minhas habilidades em [tecnologia ou tópico específico].
-
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=peu-gomes&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
+- **Linguagens:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  
+- **Bibliotecas:**
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  
+- **Visualização de Dados:**
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+  
+- **Machine Learning:**
+  
+- **Bancos de Dados:**
+  ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=sql&logoColor=white)
