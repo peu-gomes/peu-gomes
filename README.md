@@ -1,11 +1,10 @@
 # **👋 Bem-vindo ao meu GitHub!**
 
 ### Sobre Mim
-Olá! Sou [Seu Nome], um apaixonado por Ciência de Dados, buscando insights significativos nos dados. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
+Olá! Sou Pedro, um apaixonado por Ciência de Dados, buscando insights significativos nos dados. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
 
 ### 🚀 Projetos Destacados
-- [Projeto 1](link_para_projeto1): Breve descrição do projeto, mostrando seu impacto ou resultado.
-- [Projeto 2](link_para_projeto2): Outro projeto fascinante que destaca minhas habilidades em Ciência de Dados.
+- [Projeto 1](link_para_projeto1): Em construção.
 
 ### 🛠️ Habilidades
 - **Linguagens:**
