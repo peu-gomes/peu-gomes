@@ -8,12 +8,13 @@ Olá! Sou [Seu Nome], um apaixonado por Ciência de Dados, buscando insights sig
 - [Projeto 2](link_para_projeto2): Outro projeto fascinante que destaca minhas habilidades em Ciência de Dados.
 
 ### 🛠️ Habilidades
-- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-- **Bibliotecas:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=flat&logo=python&logoColor=white)
+- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Bibliotecas:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
     
-- **Visualização de Dados:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=flat&logo=python&logoColor=white)
+- **Visualização de Dados:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 - **Machine Learning:** ![Regressão](https://img.shields.io/badge/Regress%C3%A3o-FF5733?style=flat) ![Classificação](https://img.shields.io/badge/Classifica%C3%A7%C3%A3o-00BFFF?style=flat) ![Clustering](https://img.shields.io/badge/Clustering-8A2BE2?style=flat)
-- **Bancos de Dados:** ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Bancos de Dados:** ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=sql&logoColor=white)
+
 
 ### 📘 Aprendendo Atualmente
 Estou sempre em busca de conhecimento! Atualmente, estou focado em aprimorar minhas habilidades em [tecnologia ou tópico específico].
