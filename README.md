@@ -24,17 +24,3 @@ Estou sempre em busca de conhecimento! Atualmente, estou focado em aprimorar min
 
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=peu-gomes&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
-
-### 📫 Como Entrar em Contato
-- LinkedIn: [Seu Nome no LinkedIn](link_para_perfil_linkedin)
-- Email: ph6@gmail.com
-
-### 🎯 Objetivo
-Meu objetivo é [insira seu objetivo aqui, como contribuir para projetos de código aberto, aprender uma nova tecnologia, etc.].
-
-### 🙏 Obrigado por Visitar!
-Sinta-se à vontade para explorar meus projetos e entrar em contato. Espero que encontre algo interessante ou útil aqui. Seja bem-vindo(a)!
-
----
-
-*Nota: Lembre-se de substituir os espaços reservados (como `[Seu Nome]`, `link_para_projeto1`, etc.) com suas informações reais.*
