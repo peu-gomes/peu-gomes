@@ -4,7 +4,7 @@
 Olá! Sou Pedro, um apaixonado por Ciência de Dados, buscando insights significativos nos dados. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
 
 ### 🚀 Projetos Destacados
-- [Projeto 1](link_para_projeto1): Em construção.
+- Ainda não tenho projetos.
 
 ### 🛠️ Habilidades
 - **Linguagens:**
