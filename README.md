@@ -15,20 +15,19 @@ Olá! Sou [Seu Nome], um apaixonado por Ciência de Dados, buscando insights sig
 - **Machine Learning:** ![Regressão](https://img.shields.io/badge/Regress%C3%A3o-FF5733?style=flat) ![Classificação](https://img.shields.io/badge/Classifica%C3%A7%C3%A3o-00BFFF?style=flat) ![Clustering](https://img.shields.io/badge/Clustering-8A2BE2?style=flat)
 - **Bancos de Dados:** ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=sql&logoColor=white)
 
+- **Outras Habilidades:** 
+  - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) 
+  - ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=microsoftpowerquery&logoColor=black)
 
 ### 📘 Aprendendo Atualmente
 Estou sempre em busca de conhecimento! Atualmente, estou focado em aprimorar minhas habilidades em [tecnologia ou tópico específico].
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usu%C3%A1rio&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=peu-gomes&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ### 📫 Como Entrar em Contato
 - LinkedIn: [Seu Nome no LinkedIn](link_para_perfil_linkedin)
-- Email: seu.email@gmail.com
-
-### 📚 Recursos Úteis
-- [Link 1](link_recurso1): Descrição breve do recurso e como pode ser útil.
-- [Link 2](link_recurso2): Outro recurso interessante que pode ser explorado.
+- Email: ph6@gmail.com
 
 ### 🎯 Objetivo
 Meu objetivo é [insira seu objetivo aqui, como contribuir para projetos de código aberto, aprender uma nova tecnologia, etc.].
