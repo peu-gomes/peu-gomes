@@ -1,7 +1,7 @@
 # **👋 Bem-vindo ao meu GitHub!**
 
 ### Sobre Mim
-Olá! Sou Pedro, sou Contador migrando para a Ciência de Dados.. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
+Olá! Sou Pedro, sou Contador migrando para a Ciência de Dados. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
 
 ### 🚀 Projetos Destacados
 - Em construção.
