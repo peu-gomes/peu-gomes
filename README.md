@@ -4,7 +4,7 @@
 Olá! Sou Pedro, sou Contador migrando para a Ciência de Dados. Este é o meu espaço para compartilhar projetos, experimentos e aprendizados.
 
 ### 🚀 Projetos Destacados
-- Em construção.
+- Sistema Contábil em Python (Em construção)
 
 ### 🛠️ Habilidades
 - **Linguagens:**
