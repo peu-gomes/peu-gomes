@@ -9,10 +9,11 @@ Olá! Eu sou o Pedro, um contador trilhando o caminho da Ciência de Dados. Nest
 ## 🛠️ Habilidades
 - **Linguagens:**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  
 
 - **Bibliotecas:**
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 - **Visualização de Dados:**
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
