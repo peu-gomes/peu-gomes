@@ -4,6 +4,7 @@
 Olá! Eu sou o Pedro, um contador trilhando o caminho da Ciência de Dados. Neste espaço, compartilho projetos, experimentos e os insights que venho ganhando ao longo dessa empolgante transição.
 
 ## 🚀 Projetos Destacados
+- [Versato Copy Cargas](https://github.com/peu-gomes/VersatoCopyCargas) - Automação da integração contábil para importação no sistema Versato, simplificando processos manuais e economizando tempo.
 - Sistema Contábil em Python (Em construção)
 
 ## 🛠️ Habilidades
